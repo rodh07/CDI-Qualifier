@@ -31,5 +31,6 @@ import static java.lang.annotation.ElementType.PARAMETER;
 @Target({ TYPE, METHOD, FIELD, PARAMETER })
 @Documented
 @Retention(RetentionPolicy.RUNTIME)
-public @interface AnimaisSelvagens {
+public @interface AnimaisSelvagens { 
+	
 }
